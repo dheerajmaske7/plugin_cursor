@@ -3,7 +3,7 @@
 A Chrome extension that allows users to customize their cursor by uploading and using their own images.
 
 ## Features
-![Feature ](assets/demo.png)
+![Feature ](assets/Demo.png)
 ![Feature ](assets/Layout_ui.jpeg)
 
 - Upload custom images to use as cursor
