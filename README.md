@@ -38,12 +38,6 @@ git clone https://github.com/dheerajmaske7/plugin_cursor.git
 3. The image will be automatically processed and applied
 4. To disable the custom cursor, click the "Disable Custom Cursor" button
 
-## Technical Details
-
-- Built using vanilla JavaScript
-- Uses HTML5 Canvas for image processing
-- Implements Chrome Storage API for persistence
-- Supports PNG images with transparency
 
 ## Contributing
 
