@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Custom Cursor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="popup-container">
+    <h2>Dynamic Custom Cursor</h2>
+    <p class="description">Upload an image to use as your custom cursor.Refresh the page</p>
+    <div class="button-group">
+      <label for="imageUpload" class="button upload-button">Upload Image</label>
+      <input type="file" id="imageUpload" accept="image/*" hidden>
+      <button id="disableCursor" class="button disable-button">Disable Cursor</button>
+    </div>
+    <p id="status"></p>
+  </div>
+</body>
+<script src="popup.js"></script>
+</html>
