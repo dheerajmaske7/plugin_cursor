@@ -1,4 +1,4 @@
-# Custom Cursor Plugin
+# Custom Cursor Plugin Extensiom
 
 A Chrome extension that allows users to customize their cursor by uploading and using their own images.
 
